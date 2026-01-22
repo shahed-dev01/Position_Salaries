@@ -9,4 +9,4 @@ This is a Machine Learning project that predicts an employee's salary based on t
 * Pandas
 
 ## 📊 Results
-The model successfully predicts the salary for level 6.5 with high accuracy using a degree-4 polynomial.
+The model successfully predicts the salary for level between 1 to 10 with high accuracy using a degree-4 polynomial.
